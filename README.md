@@ -1,6 +1,7 @@
 ## Flutter 双屏支持插件
 
-### With safety support
+> A copy from <https://pub.dev/packages/flutter_subscreen_plugin>
+> With safety support and errors fixed
 
 该插件支持双屏安卓设备，主副屏使用Flutter进行绘制，使用channel实现双屏间的通信交互。
 
